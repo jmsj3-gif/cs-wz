@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
-    <update version="1.0.0.0" date="2026-04-25">
-        <title>Lançamento CS WZ!</title>
-        <description>Versão inicial do Counter-Strike WZ.</description>
+    <update>
+        <title>Nova Atualização v1.1</title>
+        <description>Adicionados novos mapas e correções de bugs.</description>
+        <date>27.04.2026</date>
+    </update>
+    <update>
+        <title>Lançamento CS WZ</title>
+        <description>Versão inicial do Counter-Strike WZ com todos os modos de jogo.</description>
+        <date>25.04.2026</date>
     </update>
 </updates>
