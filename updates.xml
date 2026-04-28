@@ -4,10 +4,12 @@
         <title>Nova Atualizacao v1.1</title>
         <description>Adicionados novos mapas e correcoes de bugs.</description>
         <date>27.04.2026</date>
+        <link>https://github.com/jmsj3-gif/cs-wz/releases</link>
     </update>
     <update>
         <title>Lancamento CS WZ</title>
-        <description>Versao inicial do Counter-Strike WZ com todos os modos de jogo.</description>
+        <description>Versao inicial do Counter-Strike WZ.</description>
         <date>25.04.2026</date>
+        <link>https://github.com/jmsj3-gif/cs-wz</link>
     </update>
 </updates>
