@@ -3,13 +3,13 @@
     <update>
         <title>v1.0</title>
         <description>Adicionados novos mapas e correcoes de bugs.</description>
+        <link>https://discord.gg/hqJs5MSMK</link>
         <date>27.04.2026</date>
-        <link>https://discord.gg/hqJsSMSM</link>
     </update>
     <update>
         <title>Lancamento CS WZ</title>
         <description>Versao inicial do Counter-Strike WZ.</description>
-        <date>25.04.2026</date>
         <link>https://github.com/jmsj3-gif/cs-wz</link>
+        <date>25.04.2026</date>
     </update>
 </updates>
